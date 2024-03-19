@@ -1,0 +1,19 @@
+name: contrastive_learning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ca-certificates
+  - openssl
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - certifi
+  - tqdm
+
